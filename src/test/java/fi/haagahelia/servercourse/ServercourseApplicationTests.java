@@ -21,5 +21,4 @@ public class ServercourseApplicationTests {
 	public void contextLoads() throws Exception {
 		assertThat(controller).isNotNull();
 	}
-
 }
