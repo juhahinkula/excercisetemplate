@@ -5,5 +5,4 @@ Create Spring Boot application that handle requests to the endpoints **/index** 
 
 **Note!** There is file for the controller class created (src/mainjava/fi/haagahelia/servercourse/HelloController.java) that you have to modify.
 
-**Output**
-![screenshot](juhahinkula.github.io/img/springreact.png)
+
