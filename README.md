@@ -6,8 +6,8 @@ Create Spring Boot application that handle requests to the endpoints **/index** 
 **Note!** There is file for the controller class created (src/mainjava/fi/haagahelia/servercourse/HelloController.java) that you have to modify.
 
 **Output**
-/index
+
 ![screenshot](https://juhahinkula.github.io/img/server_ex1a.PNG)
-/conatact
+
 ![screenshot](https://juhahinkula.github.io/img/server_ex1b.PNG)
 
